@@ -11,10 +11,8 @@ sections:
     col_number: three
     grid_items:
       - title: About Mrs. McLamb
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          ![](/images/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-08ad71b7-3763-4604-9f2c-5b06d750d390-v1.png)
         actions:
           - label: Get Started
             url: /docs
